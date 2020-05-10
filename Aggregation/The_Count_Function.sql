@@ -1,0 +1,5 @@
+-- SOLUTION:
+
+SELECT COUNT(*)   -- '*' for all rows
+FROM CITY
+WHERE POPULATION > 100000;
