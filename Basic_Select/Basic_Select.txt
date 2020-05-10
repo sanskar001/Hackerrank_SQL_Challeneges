@@ -1,1 +1,3 @@
+Here in this folder we can understand Hackerrank Basic sql select Query Problems.
 
+Thank-You :)
